@@ -32,7 +32,7 @@ require (
 	github.com/go-openapi/jsonpointer v0.19.0
 	github.com/go-openapi/jsonreference v0.19.0
 	github.com/go-openapi/spec v0.19.0
-	github.com/go-openapi/swag v0.19.0
+	github.com/go-openapi/swag v0.19.9
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
