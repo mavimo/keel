@@ -31,7 +31,7 @@ require (
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-openapi/jsonpointer v0.19.0
 	github.com/go-openapi/jsonreference v0.19.0
-	github.com/go-openapi/spec v0.19.0
+	github.com/go-openapi/spec v0.19.7
 	github.com/go-openapi/swag v0.19.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
