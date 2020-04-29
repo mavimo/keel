@@ -90,7 +90,7 @@ require (
 	golang.org/x/sys v0.0.0-20190613124609-5ed2794edfdc
 	golang.org/x/text v0.3.2
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	google.golang.org/api v0.6.0
+	google.golang.org/api v0.22.0
 	google.golang.org/appengine v1.6.1
 	google.golang.org/genproto v0.0.0-20190611190212-a7e196e89fd3
 	google.golang.org/grpc v1.21.1
