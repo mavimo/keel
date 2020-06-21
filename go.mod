@@ -109,7 +109,7 @@ require (
 	k8s.io/cli-runtime v0.0.0-20190516231937-17bc0b7fcef5
 	k8s.io/client-go v11.0.1-0.20190516230509-ae8359b20417+incompatible
 	k8s.io/cloud-provider v0.0.0-20190323031113-9c9d72d1bf90
-	k8s.io/helm v2.14.1+incompatible
+	k8s.io/helm v2.16.9+incompatible
 	k8s.io/klog v0.3.3
 	k8s.io/kube-openapi v0.0.0-20190603182131-db7b694dc208
 	k8s.io/kubernetes v1.14.2
