@@ -29,10 +29,10 @@ require (
 	github.com/evanphx/json-patch v3.0.0+incompatible
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-openapi/jsonpointer v0.19.0
+	github.com/go-openapi/jsonpointer v0.19.5
 	github.com/go-openapi/jsonreference v0.19.0
 	github.com/go-openapi/spec v0.19.0
-	github.com/go-openapi/swag v0.19.0
+	github.com/go-openapi/swag v0.19.5
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
@@ -57,7 +57,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/lib/pq v1.1.1
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de
-	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
+	github.com/mailru/easyjson v0.0.0-20190626092158-b2ccc519800e
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
 	github.com/mfridman/tparse v0.7.4 // indirect
