@@ -29,10 +29,10 @@ require (
 	github.com/evanphx/json-patch v3.0.0+incompatible
 	github.com/exponent-io/jsonpath v0.0.0-20151013193312-d6023ce2651d
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-openapi/jsonpointer v0.19.0
-	github.com/go-openapi/jsonreference v0.19.0
-	github.com/go-openapi/spec v0.19.0
-	github.com/go-openapi/swag v0.19.0
+	github.com/go-openapi/jsonpointer v0.19.5
+	github.com/go-openapi/jsonreference v0.19.5
+	github.com/go-openapi/spec v0.19.15
+	github.com/go-openapi/swag v0.19.12
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
@@ -57,7 +57,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/lib/pq v1.1.1
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de
-	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
+	github.com/mailru/easyjson v0.7.6
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
 	github.com/mfridman/tparse v0.7.4 // indirect
@@ -82,16 +82,16 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/tbruyelle/hipchat-go v0.0.0-20160921153256-749fb9e14beb
 	github.com/urfave/negroni v0.3.0
 	go.opencensus.io v0.22.0
-	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8
-	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20190613124609-5ed2794edfdc
-	golang.org/x/text v0.3.2
+	golang.org/x/sys v0.0.0-20200930185726-fdedc70b468f
+	golang.org/x/text v0.3.4
 	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
 	google.golang.org/api v0.6.0
 	google.golang.org/appengine v1.6.1
@@ -101,7 +101,7 @@ require (
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/square/go-jose.v2 v2.3.1
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.0.0-20190516230258-a675ac48af67
 	k8s.io/apiextensions-apiserver v0.0.0-20190516231611-bf6753f2aa24
 	k8s.io/apimachinery v0.0.0-20190404173353-6a84e37a896d
