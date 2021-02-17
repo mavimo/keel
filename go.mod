@@ -32,7 +32,7 @@ require (
 	github.com/go-openapi/jsonpointer v0.19.0
 	github.com/go-openapi/jsonreference v0.19.0
 	github.com/go-openapi/spec v0.19.0
-	github.com/go-openapi/swag v0.19.0
+	github.com/go-openapi/swag v0.19.14
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
 	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
@@ -57,7 +57,7 @@ require (
 	github.com/konsorten/go-windows-terminal-sequences v1.0.2
 	github.com/lib/pq v1.1.1
 	github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de
-	github.com/mailru/easyjson v0.0.0-20190403194419-1ea4449da983
+	github.com/mailru/easyjson v0.7.6
 	github.com/mattn/go-sqlite3 v1.10.0
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
 	github.com/mfridman/tparse v0.7.4 // indirect
@@ -82,7 +82,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/tbruyelle/hipchat-go v0.0.0-20160921153256-749fb9e14beb
 	github.com/urfave/negroni v0.3.0
 	go.opencensus.io v0.22.0
@@ -101,7 +101,7 @@ require (
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/inf.v0 v0.9.1
 	gopkg.in/square/go-jose.v2 v2.3.1
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.0.0-20190516230258-a675ac48af67
 	k8s.io/apiextensions-apiserver v0.0.0-20190516231611-bf6753f2aa24
 	k8s.io/apimachinery v0.0.0-20190404173353-6a84e37a896d
