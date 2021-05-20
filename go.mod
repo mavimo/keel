@@ -3,7 +3,7 @@ module github.com/keel-hq/keel
 go 1.14
 
 require (
-	cloud.google.com/go v0.40.0
+	cloud.google.com/go v0.81.0
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78
 	github.com/BurntSushi/toml v0.3.1
 	github.com/MakeNowJust/heredoc v0.0.0-20171113091838-e9091a26100e
@@ -35,12 +35,12 @@ require (
 	github.com/go-openapi/swag v0.19.0
 	github.com/gobwas/glob v0.2.3
 	github.com/gogo/protobuf v1.2.1
-	github.com/golang/groupcache v0.0.0-20190129154638-5b532d6fd5ef
-	github.com/golang/protobuf v1.3.1
+	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
+	github.com/golang/protobuf v1.5.2
 	github.com/google/btree v1.0.0
 	github.com/google/go-querystring v1.0.0
 	github.com/google/gofuzz v1.0.0
-	github.com/google/uuid v1.1.1
+	github.com/google/uuid v1.1.2
 	github.com/googleapis/gnostic v0.2.0
 	github.com/gorilla/mux v1.7.2
 	github.com/gorilla/websocket v1.4.0
@@ -70,7 +70,7 @@ require (
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/pkg/errors v0.8.1
 	github.com/prometheus/client_golang v0.9.4
-	github.com/prometheus/client_model v0.0.0-20190129233127-fd36f4220a90
+	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4
 	github.com/prometheus/common v0.4.1
 	github.com/prometheus/procfs v0.0.2
 	github.com/rubenv/sql-migrate v0.0.0-20190327083759-54bad0a9b051
@@ -82,21 +82,21 @@ require (
 	github.com/sirupsen/logrus v1.4.2
 	github.com/spf13/cobra v0.0.5
 	github.com/spf13/pflag v1.0.3
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.6.1
 	github.com/tbruyelle/hipchat-go v0.0.0-20160921153256-749fb9e14beb
 	github.com/urfave/negroni v0.3.0
-	go.opencensus.io v0.22.0
-	golang.org/x/crypto v0.0.0-20190611184440-5c40567a22f8
-	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
-	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sync v0.0.0-20190423024810-112230192c58
-	golang.org/x/sys v0.0.0-20190613124609-5ed2794edfdc
-	golang.org/x/text v0.3.2
-	golang.org/x/time v0.0.0-20190308202827-9d24e82272b4
-	google.golang.org/api v0.6.0
-	google.golang.org/appengine v1.6.1
-	google.golang.org/genproto v0.0.0-20190611190212-a7e196e89fd3
-	google.golang.org/grpc v1.21.1
+	go.opencensus.io v0.23.0
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20210503060351-7fd8e65b6420
+	golang.org/x/oauth2 v0.0.0-20210514164344-f6687ab2804c
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
+	golang.org/x/sys v0.0.0-20210514084401-e8d321eab015
+	golang.org/x/text v0.3.6
+	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
+	google.golang.org/api v0.47.0
+	google.golang.org/appengine v1.6.7
+	google.golang.org/genproto v0.0.0-20210513213006-bf773b8c8384
+	google.golang.org/grpc v1.37.1
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	gopkg.in/gorp.v1 v1.7.2
 	gopkg.in/inf.v0 v0.9.1
